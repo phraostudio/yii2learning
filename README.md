@@ -5,7 +5,7 @@
 ### Install
 - สร้าง db ชื่อ yii2-learning-startkit
 - นำเข้าข้อมูลไฟล์ `yii2-learning-startkit.sql`
-- แตก zip file แล้ว cd เข้าไป /Yii2-Learning-Startkit
+- แตก zip file แล้ว cd เข้าไป /yii2learning
 จากนั้นทำการ install packet
 ```
 composer update
